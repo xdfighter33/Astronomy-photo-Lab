@@ -407,3 +407,5 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+finalimageAverage_Dark_frame.txt
+finalimageAverage_bias_frame.txt
